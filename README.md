@@ -1,4 +1,4 @@
-# 📊 Data Manipulation for Business Insight using Python & Pandas
+# 📊 Transforming Supermarket Sales Data into Actionable Business Insights
 
 ## 📌 Project Overview
 
